@@ -1,0 +1,15 @@
+C:\Users\79663\source\repos\практика 3\bin\Debug\net6.0\практика 3.exe
+C:\Users\79663\source\repos\практика 3\bin\Debug\net6.0\практика 3.deps.json
+C:\Users\79663\source\repos\практика 3\bin\Debug\net6.0\практика 3.runtimeconfig.json
+C:\Users\79663\source\repos\практика 3\bin\Debug\net6.0\практика 3.dll
+C:\Users\79663\source\repos\практика 3\bin\Debug\net6.0\практика 3.pdb
+C:\Users\79663\source\repos\практика 3\obj\Debug\net6.0\практика 3.csproj.AssemblyReference.cache
+C:\Users\79663\source\repos\практика 3\obj\Debug\net6.0\практика 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79663\source\repos\практика 3\obj\Debug\net6.0\практика 3.AssemblyInfoInputs.cache
+C:\Users\79663\source\repos\практика 3\obj\Debug\net6.0\практика 3.AssemblyInfo.cs
+C:\Users\79663\source\repos\практика 3\obj\Debug\net6.0\практика 3.csproj.CoreCompileInputs.cache
+C:\Users\79663\source\repos\практика 3\obj\Debug\net6.0\практика 3.dll
+C:\Users\79663\source\repos\практика 3\obj\Debug\net6.0\refint\практика 3.dll
+C:\Users\79663\source\repos\практика 3\obj\Debug\net6.0\практика 3.pdb
+C:\Users\79663\source\repos\практика 3\obj\Debug\net6.0\практика 3.genruntimeconfig.cache
+C:\Users\79663\source\repos\практика 3\obj\Debug\net6.0\ref\практика 3.dll
